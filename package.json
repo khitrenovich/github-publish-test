@@ -1,6 +1,6 @@
 {
   "name": "@khitrenovich/github-publish-test",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "GPR Publish Test",
   "main": "index.js",
   "scripts": {
